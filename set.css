@@ -75,13 +75,13 @@ a:hover
 
 a:focus {
 
-    ...
+    
 }
 
 li:hover,
 li:focus-within {
 
-    ...
+    
 }
 
 li:focus-within {
@@ -154,6 +154,3 @@ li:focus-within a {
     clear: both;
     width: 100%;
   }
-  
-  
-  
